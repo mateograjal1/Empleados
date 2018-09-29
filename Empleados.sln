@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empleados", "Empleados\Empleados.csproj", "{65A9B1B5-4CE2-47BD-AA50-421F469A58BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilidadesUI", "UtilidadesUI\UtilidadesUI.csproj", "{CEB9CCA4-324C-44AC-8E78-E23A5039930B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65A9B1B5-4CE2-47BD-AA50-421F469A58BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65A9B1B5-4CE2-47BD-AA50-421F469A58BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65A9B1B5-4CE2-47BD-AA50-421F469A58BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65A9B1B5-4CE2-47BD-AA50-421F469A58BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEB9CCA4-324C-44AC-8E78-E23A5039930B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB9CCA4-324C-44AC-8E78-E23A5039930B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB9CCA4-324C-44AC-8E78-E23A5039930B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB9CCA4-324C-44AC-8E78-E23A5039930B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD4A478A-9864-4F14-BC01-C5A8B72723DE}
+	EndGlobalSection
+EndGlobal
